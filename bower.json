@@ -1,0 +1,23 @@
+{
+    "name": "leaflet.twofingerzoom",
+    "homepage": "https://github.com/aratcliffe/Leaflet.twofingerzoom",
+    "authors": [
+        "Adam Ratcliffe <adam.ratcliffe@gmail.com>"
+    ],
+    "description": "An interaction handler that allows the map to be zoomed out on touch screen devices by tapping the screen with two fingers simultaneously.",
+    "main": "dist/leaflet.twofingerzoom.js",
+    "keywords": [
+        "gis"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "src",
+        "examples",
+        "package.json",
+        "bower.json",
+        ".DS_Store",
+        ".git",
+        ".gitingore",
+        ".editorconfig"
+    ]
+}
